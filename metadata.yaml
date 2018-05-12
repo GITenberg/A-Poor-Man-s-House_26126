@@ -1,0 +1,27 @@
+_repo: A-Poor-Man-s-House_26126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Stephen Sydney
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '31807'
+    url: http://www.gutenberg.org/2009/agents/31807
+description: ''
+gutenberg_issued: '2008-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Reynolds, Stephen Sydney, 1881-1919'
+- !lcsh 'Authors, English -- 20th century -- Biography'
+title: A Poor Man's House
+url: http://www.gutenberg.org/ebooks/26126
